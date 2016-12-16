@@ -3,10 +3,10 @@
     <name>Bidchat-Plist-plugin</name>
     <platform name="ios">
          <!--Example   -->
-        <!--<config-file parent="UIAppFonts" target="*-Info.plist">
+        <config-file parent="UIAppFonts" target="*-Info.plist">
             <array>
                 <string>icomoon.ttf</string>
             </array>
-        </config-file>-->
+        </config-file>
     </platform>
 </plugin>
